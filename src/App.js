@@ -28,5 +28,8 @@ class Counter extends Component {
   }
 }
 
+console.log(Component); // 親クラスのComponentを確認
+console.log(Counter);
+
 
 export default App;
